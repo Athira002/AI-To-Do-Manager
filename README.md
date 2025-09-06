@@ -59,10 +59,13 @@ src/
 
 ## 🔑 Notes for Reviewers (Recruiters / Interviewers)
 
--The app demonstrates React, state management, and API integration.
--API key is intentionally excluded for security reasons.
--If you want to test the AI feature, simply add your own API key in .env.
--Without a key, the app still runs with all basic To-Do features.
+The app demonstrates React, state management, and API integration.
+
+API key is intentionally excluded for security reasons.
+
+If you want to test the AI feature, simply add your own API key in .env.
+
+Without a key, the app still runs with all basic To-Do features.
 
 ## 🛠️ Tech Stack
 
